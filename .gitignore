@@ -1,0 +1,22 @@
+# Frontend
+node_modules/
+dist/
+dist-ssr/
+
+# Backend
+bin/
+obj/
+.vs/
+*.user
+
+# Secrets and local config
+.env
+.env.*
+appsettings.Local.json
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+*.log
+*.suo

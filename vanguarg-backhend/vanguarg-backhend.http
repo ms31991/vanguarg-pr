@@ -1,0 +1,6 @@
+@vanguarg_backhend_HostAddress = http://localhost:5098
+
+GET {{vanguarg_backhend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
